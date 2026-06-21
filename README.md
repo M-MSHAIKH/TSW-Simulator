@@ -130,7 +130,7 @@ Converts the sliding energy calculated in earlier tabs into material loss, showi
 **To run:**
 
 ```bash
-git clone https://github.com/yourusername/TSWS.git
+git clone https://github.com/M-MSHAIKH/TSW-Simulator.git
 ```
 
 1. Open MATLAB (R2022a or newer).
