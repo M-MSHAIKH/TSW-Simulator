@@ -118,7 +118,7 @@ git clone https://github.com/M-MSHAIKH/TSW-Simulator.git
 
 1. Navigate to the cloned `TSWS` directory.
 2. Unzip the `tsw_simulator_Toolbox` under matlab folder.
-3. Open Matlab 2022a or newer and direct current drive to release folder under tsw_simulator_Toolbox under.
+3. Open Matlab 2022a or newer and direct current Matalb directory to release folder under tsw_simulator_Toolbox folder.
 3. Open the app file (tsw_simulator.mltbx) in matlab and click.
 4. This will create an app under my app in APPs section.
 
