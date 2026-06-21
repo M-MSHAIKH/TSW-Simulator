@@ -55,7 +55,7 @@ TSWS simulates this entire chain — from bending, to slipping, to abrasive wear
 - ⚙️ Tire wear prediction using an Archard wear model
 - 📤 Exportable data at every stage for further analysis in MATLAB or Excel
 
-## Demo
+<!-- ## Demo
 
 **Shear Stress Animation**
 
@@ -67,7 +67,7 @@ TSWS simulates this entire chain — from bending, to slipping, to abrasive wear
 
 **Tire Wear Animation**
 
-<img src="assets/gifs/tire_wear_demo.gif" alt="Tire wear animation demo" width="600">
+<img src="assets/gifs/tire_wear_demo.gif" alt="Tire wear animation demo" width="600"> -->
 
 ## Workflow Walkthrough
 
@@ -77,7 +77,7 @@ TSWS is a linear, tab-by-tab workflow. Move through the tabs from left to right.
 
 The landing page. It lists the seven outputs the simulator will generate, so you know what to expect before configuring anything.
 
-<img src="assets/screenshots/tab1_start.png" alt="Start tab" width="700">
+<img src="assets/start_page.png" alt="Start tab" width="700">
 
 ### Tab 2: Bristle Distribution
 
