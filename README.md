@@ -13,6 +13,8 @@ A micro-mechanical brush-model simulator for visualizing tire contact patch beha
   <img src="https://img.shields.io/badge/MATLAB-R2022a%2B-orange" alt="MATLAB Version">
 </p>
 
+[![View TSW-Simulator on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/184108-tsw-simulator)
+
 ---
 
 ## Overview
@@ -135,7 +137,7 @@ TSWS needs steering input over time to calculate how the tire twists.
 
 ## Example Dataset
 
-An example dataset, `tsws_example_data.mat`, is included. It contains real steering maneuver data from the **P1 Garage research vehicle at Bucknell University**, pre-mapped to the variable names TSWS expects — ready to load and run immediately.
+An example dataset, `tsws_example_data.mat`, is included. It contains real steering maneuver data from the **P1 Garage research vehicle at Bucknell University**, pre-mapped to the variable names TSWS expects ready to load and run immediately.
 
 ## Documentation
 
