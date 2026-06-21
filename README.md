@@ -1,20 +1,3 @@
-<!--
-  PLACEHOLDER IMAGE PATHS — replace these once you name your files:
-  - assets/banner.png                          (cover image)
-  - assets/screenshots/tab1_start.png
-  - assets/screenshots/tab2_bristle_distribution.png
-  - assets/screenshots/tab3_load_distribution.png
-  - assets/screenshots/tab4_scrub_torque.png
-  - assets/screenshots/tab5_shear_stress.png
-  - assets/screenshots/tab6_stick_slip.png
-  - assets/screenshots/tab7_bristle_deflection.png
-  - assets/screenshots/tab8_tire_wear.png
-  - assets/gifs/shear_stress_demo.gif
-  - assets/gifs/stick_slip_demo.gif
-  - assets/gifs/tire_wear_demo.gif
-  Just keep the same folder structure, or do a find-and-replace on the paths below.
--->
-
 <p align="center">
   <img src="assets/icon_tsws.png" alt="TSWS Banner" width="300">
 </p>
@@ -133,9 +116,10 @@ Converts the sliding energy calculated in earlier tabs into material loss, showi
 git clone https://github.com/M-MSHAIKH/TSW-Simulator.git
 ```
 
-1. Open MATLAB (R2022a or newer).
-2. Navigate to the cloned `TSWS` folder.
-3. Open the app file and click **Run**.
+1. Navigate to the cloned `TSWS` directory.
+2. Unzip the `tsw_simulator_Toolbox` under matlab folder.
+3. Open Matlab 2022a or newer and direct current drive to release folder under tsw_simulator_Toolbox under.
+3. Open the app file (tsw_simulator.mltbx) in matlab and click.
 4. This will create an app under my app in APPs section.
 
 ## Input Data Format
