@@ -40,7 +40,7 @@ TSWS simulates this entire chain — from bending, to slipping, to abrasive wear
 - ⚙️ Tire wear prediction using an Archard wear model
 - 📤 Exportable data at every stage for further analysis in MATLAB or Excel
 
-<!-- ## Demo
+## Demo
 
 **Shear Stress Animation**
 
@@ -48,11 +48,11 @@ TSWS simulates this entire chain — from bending, to slipping, to abrasive wear
 
 **Stick-Slip Animation**
 
-<img src="assets/gifs/stick_slip_demo.gif" alt="Stick-slip animation demo" width="600">
+<img src="assets/adhesion_sliding_animation_short.gif" alt="Stick-slip animation demo" width="600">
 
 **Tire Wear Animation**
 
-<img src="assets/gifs/tire_wear_demo.gif" alt="Tire wear animation demo" width="600"> -->
+<img src="assets/gifs/tire_wear_demo.gif" alt="Tire wear animation demo" width="600">
 
 ## Workflow Walkthrough
 
