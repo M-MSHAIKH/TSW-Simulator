@@ -42,13 +42,13 @@ TSWS simulates this entire chain — from bending, to slipping, to abrasive wear
 
 ## Demo
 
-<!-- **Shear Stress Animation**
+**Shear Stress Animation**
 
-<img src="assets/gifs/shear_stress_demo.gif" alt="Shear stress animation demo" width="600"> -->
+<img src="assets/tire_shear_stress.gif" alt="Shear stress animation demo" width="600">
 
 **Stick-Slip Animation**
 
-<img src="assets/adhesion_sliding_animation_short.gif" alt="Stick-slip animation demo" width="600">
+<img src="assets/bristles_stick_slip.gif" alt="Stick-slip animation demo" width="600">
 
 <!-- **Tire Wear Animation**
 
