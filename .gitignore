@@ -2,13 +2,11 @@
 .DS_Store
 
 # MATLAB
-*.mat
-*.fig
 *.mexa64
 *.mexmaci64
 *.mexmaci
 *.mex*
-*.p
+
 
 # Python
 __pycache__/
