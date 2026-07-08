@@ -5,7 +5,7 @@
 <h1 align="center">TSW (Tire State and Wear) Simulator</h1>
 
 <p align="center">
-A micro-mechanical brush model simulator for visualizing tire contact patch behavior — shear stress, stick-slip grip loss, and tread wear. Under stationary steering maneuvers.
+A micro-mechanical brush model simulator for visualizing tire contact patch behavior — shear stress, stick-slip grip loss, and tread wear etc. Under stationary steering maneuvers.
 </p>
 
 <p align="center">
