@@ -127,8 +127,8 @@ git clone https://github.com/M-MSHAIKH/TSW-Simulator.git
 **To run (MATLAB ONLINE):**
 
 1. Open matlab community page by clicking on the `file exchange` icon on this readme after the title.
-2. On your left side you can see open in MATLAB Online button.
-3. Clear the dialogue box by by save and open button.
+2. On your right side you can see `open in MATLAB Online` button.
+3. Clear the dialogue box by save and open button.
 4. Now, you copied the entire github repo in the MATLAB online.
 5. Add this `matlab` folder to your matlab path by left click and add to path option.
 6. Open the app file (TSW_Simulator.mltbx) by clicking on it. (the Installation take place)
