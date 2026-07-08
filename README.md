@@ -126,7 +126,7 @@ git clone https://github.com/M-MSHAIKH/TSW-Simulator.git
 
 **To run (MATLAB ONLINE):**
 
-1. Open matlab community page by clicking on the file exchange icon on this readme after the title.
+1. Open matlab community page by clicking on the `file exchange` icon on this readme after the title.
 2. On your left side you can see open in MATLAB Online button.
 3. Clear the dialogue box by by save and open button.
 4. Now, you copied the entire github repo in the MATLAB online.
@@ -147,7 +147,7 @@ TSWS needs steering input over time to calculate how the tire twists.
 
 ## Example Dataset
 
-An example dataset, `tsws_example_data.mat` is included under `example_data` folder. It contains real steering maneuver data from the **P1 Garage research vehicle at Bucknell University**, pre-mapped to the variable names TSWS expects ready to load and run immediately.
+An example dataset, `tsws_example_data.mat` is included under `example_data` folder. It contains real steering maneuver data from the **P1 Garage research vehicle at Bucknell University**.
 
 ## Documentation
 
