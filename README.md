@@ -5,7 +5,7 @@
 <h1 align="center">TSW (Tire State and Wear) Simulator</h1>
 
 <p align="center">
-A micro-mechanical brush-model simulator for visualizing tire contact patch behavior — shear stress, stick-slip grip loss, and tread wear — under stationary steering maneuvers.
+A micro-mechanical brush model simulator for visualizing tire contact patch behavior — shear stress, stick-slip grip loss, and tread wear. Under stationary steering maneuvers.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ A micro-mechanical brush-model simulator for visualizing tire contact patch beha
 
 ## Overview
 
-Most vehicle models treat the tire as a single point of contact. TSWS zooms in instead — it models the actual **contact patch**, the small rubber footprint where the tire touches the road.
+Most vehicle models treat the tire as a single point of contact.  Tire State and Wear Simulator (TSWS) zooms in instead. It models the actual **contact patch**, the small rubber footprint where the tire touches the road.
 
 The simulator works on a **brush model**: imagine the tire tread as thousands of tiny flexible rubber bristles.
 
@@ -27,16 +27,16 @@ The simulator works on a **brush model**: imagine the tire tread as thousands of
 2. **Sliding (Slip)** — if the twisting force is too great, bristles break traction and scrape across the road.
 3. **Wear** — the energy lost during scraping physically removes rubber from the tire.
 
-TSWS simulates this entire chain — from bending, to slipping, to abrasive wear across thousands of individual bristles over time.
+TSWS simulates this entire chain - from bending, to slipping, to abrasive wear across thousands of individual bristles over time.
 
 ## Key Features
 
 - 🧱 Configurable contact patch geometry and bristle grid resolution
-- 📊 Five vertical load distribution models 
-- 🔧 Tire scrub torque estimation from real steering data
+- 📊 Five vertical load distribution models (Choose any)
+- 🔧 Tire scrub torque estimation 
 - 🌡️ Animated shear stress visualization across the contact patch
 - 🟦🟥 Stick-slip state animation (adhesion, sliding and transition zones)
-- 🪶 Bristle deflection animation under steering load
+- 🪶 Bristle deflection animation under steering movement
 - ⚙️ Tire wear prediction using an Archard wear model
 - 📤 Exportable data at every stage for further analysis in MATLAB or Excel
 
@@ -110,7 +110,7 @@ Converts the sliding energy calculated in earlier tabs into material loss, showi
 
 - **MATLAB R2022a or later**
 - App Designer
-- *(Matlab Symbolic Toolbox)*
+- Matlab Symbolic Toolbox
 
 **To run:**
 
@@ -119,10 +119,20 @@ git clone https://github.com/M-MSHAIKH/TSW-Simulator.git
 ```
 
 1. Navigate to the cloned `TSWS` directory.
-2. Unzip the `tsw_simulator_Toolbox` under matlab folder.
-3. Open Matlab 2022a or newer and direct current Matalb directory to release folder under tsw_simulator_Toolbox folder.
-3. Open the app file (tsw_simulator.mltbx) in matlab and click.
-4. This will create an app under my app in APPs section.
+2. Open Matlab 2022a or newer and direct current Matalb directory to `matlab` folder.
+3. Open the app file (TSW_Simulator.mltbx) in matlab and click.
+4. This will create an app under my app in APPS (at top HOME, PLOT, APPS, PROJECTS - Toolstrip) section.
+5. Open the 
+
+**To run (MATLAB ONLINE):**
+
+1. Open matlab community page by clicking on the file exchange icon on this readme after the title.
+2. On your left side you can see open in MATLAB Online button.
+3. Clear the dialogue box by by save and open button.
+4. Now, you copied the entire github repo in the MATLAB online.
+5. Add this `matlab` folder to your matlab path by left click and add to path option.
+6. Open the app file (TSW_Simulator.mltbx) by clicking on it. (the Installation take place)
+7. Navigate to `Toolstrip` APPS section, under MY APPs, you can find the TSW Simulator.
 
 ## Input Data Format
 
