@@ -147,7 +147,7 @@ TSWS needs steering input over time to calculate how the tire twists.
 
 ## Example Dataset
 
-An example dataset, `tsws_example_data.mat`, is included. It contains real steering maneuver data from the **P1 Garage research vehicle at Bucknell University**, pre-mapped to the variable names TSWS expects ready to load and run immediately.
+An example dataset, `tsws_example_data.mat` is included under `example_data` folder. It contains real steering maneuver data from the **P1 Garage research vehicle at Bucknell University**, pre-mapped to the variable names TSWS expects ready to load and run immediately.
 
 ## Documentation
 
