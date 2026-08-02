@@ -94,13 +94,19 @@ Shows exactly which bristles are gripping (stick) and which are sliding (slip) a
 
 <img src="assets/stick_slip.png" alt="Stick-Slip Animation tab" width="700">
 
-### Tab 7: Bristles Deflection Animation
+### Tab 7: Tire Forces Calculation
+
+Extend the shear stress brush model for longitudinal and lateral tire force calculation.
+
+<img src="assets/tire_forces_calculation.png" alt="Bristle Deflection Animation tab" width="700">
+
+### Tab 8: Bristles Deflection Animation
 
 Visualizes the physical bending of each bristle as it twists under steering — the elastic deformation underlying the stress and torque numbers.
 
 <img src="assets/bristle_deflection.png" alt="Bristle Deflection Animation tab" width="700">
 
-### Tab 8: Tire Wear Animation
+### Tab 9: Tire Wear Animation
 
 Converts the sliding energy calculated in earlier tabs into material loss, showing where the tire wears fastest and how much tread depth is lost over the maneuver.
 
