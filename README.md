@@ -98,7 +98,7 @@ Shows exactly which bristles are gripping (stick) and which are sliding (slip) a
 
 Extend the shear stress brush model for longitudinal and lateral tire force calculation.
 
-<img src="assets/tire_forces_calculation.png" alt="Bristle Deflection Animation tab" width="700">
+<img src="assets/tire_force_calculation.png" alt="Bristle Deflection Animation tab" width="700">
 
 ### Tab 8: Bristles Deflection Animation
 
